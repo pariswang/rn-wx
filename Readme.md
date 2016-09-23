@@ -1,6 +1,6 @@
 #rn-wx
 
-按照微信小程序的结构封装React-Native
+按照微信小程序的结构封装React-Native
 目的是 write once, run anywhere.
 
 
